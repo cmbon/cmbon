@@ -18,13 +18,13 @@
 
 
 <!--Intro start-->
-- 🔭 I’m currently working on **React, Angular, Nodejs,Flutter,Firebase, MongoDB**
+- 🔭 I’m currently working on **React, Angular, Nodejs,Flutter,Firebase, MongoDB,NestJs, Rust, CosmWasm, Solidity**
 
 - 🌱 I’m currently learning **to put together multiple Hyper Beast Stack for Scalable Applications.**
 
 - ☁️ I've keen interest in cloud computing. So,I'm learning **AWS**
 
-- 💬 Ask me about **React, Angular, nodejs, Firebase, Flutter, mongoDB**
+- 💬 Ask me about **React, Angular, nodejs, Firebase, Flutter, mongoDB, Terra Classic Smart Contract, BSC Smart Contract**
 
 - 📫 Feel free to reach me out **rivadowahyuramadhan@gmail.com**
 <!--Intro end-->
